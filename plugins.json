@@ -7,7 +7,7 @@
             "date": "2023-10-16T11:04:10.862585Z",
             "requires": "clouddriver>=0.0.0",
             "sha512sum": "63aeca02f66486f5d9339793dd103b97bb77856141b406db798f1ea302a55a431b9f343250226be1ac5e72804f73ee9f560205d1fd8e8f12a18c1520700528c5",
-            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-aws-0.0.1.zip"
+            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-aws.zip"
         }
     ]
 }]
