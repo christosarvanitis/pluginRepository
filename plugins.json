@@ -1,5 +1,20 @@
 [
     {
+    "id": "Christos.EvaluateArtifactsPlugin",
+    "description": "An plugin that evaluates artifacts of a pipeline stage.",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+        {
+            "version": "0.0.1",
+            "date": "2024-06-05T11:31:40.956308Z",
+            "requires": "orca>=0.0.0,deck>=0.0.0",
+            "sha512sum": "cb1809bf62253d7767bd4b357c7b3a1a86d9c6284c3ec4225a2282deb791b14bc91e143aef7e40edc5c7e6d1d8378ba021212c95a067f4430112089907751efa",
+            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/evaluate-artifacts-0.0.1.zip"
+
+        }
+    ]
+},
+    {
     "id": "Armory.EvaluateArtifactsPlugin",
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
