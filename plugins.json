@@ -1,6 +1,6 @@
 [
     {
-    "id": "Armory.EvaluateArtifactsPlugin",
+    "id": "Armory.EvaluateArtifactsPluginTest",
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
         {
