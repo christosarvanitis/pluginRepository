@@ -8,7 +8,7 @@
             "version": "0.0.1",
             "date": "2024-06-05T11:31:40.956308Z",
             "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "cb1809bf62253d7767bd4b357c7b3a1a86d9c6284c3ec4225a2282deb791b14bc91e143aef7e40edc5c7e6d1d8378ba021212c95a067f4430112089907751efa",
+            "sha512sum": "376bc47d2a1af79938a1952d648c7729df8525f8c5367cdc7d11ee3ef99961e3eef653bd64851941b93fc4ab09d7f9188137e3862e0da08e09d0b5fade8e7a3e",
             "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/evaluate-artifacts-0.0.1.zip"
 
         }
