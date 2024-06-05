@@ -4,7 +4,7 @@
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
         {
-          "version": "0.0.2",
+          "version": "3.0.0",
             "date": "2023-10-16T11:04:10.862585Z",
             "requires": "orca>=0.0.0",
             "sha512sum": "97d3d0c09cf8cfb3938c6f73842077f4ce5527856ac06428e0a027fdd70a9ef89edaeab4c6a1fc0d9dfe341bb45eda39abe755b1a8bdc28b60c6ca22d6d83b7c",
