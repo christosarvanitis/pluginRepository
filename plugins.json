@@ -1,5 +1,22 @@
 [
     {
+    "id": "AWS.AccountRegistration",
+    "description": "AWS account registration.",
+    "provider": "https://aws.amazon.com",
+    "releases": [
+        {
+            "version": "1.4.0",
+            "date": "2025-03-28T13:41:47.094196Z",
+            "requires": "clouddriver>=7.1.0",
+            "sha512sum": "d19e3d1e61fa215d0fe09265bd854315dd24fa470053c38696ece1ce6ba1712becbfbd9e4041f1f609d4ea077939c1f024cc7af68595b154308566ff37c6b1b2",
+            "preferred": false,
+            "compatibility": [
+                
+            ]
+        }
+    ]
+},
+    {
     "id": "Christos.EvaluateArtifactsPlugin",
     "description": "An plugin that evaluates artifacts of a pipeline stage.",
     "provider": "https://github.com/armory-plugins",
