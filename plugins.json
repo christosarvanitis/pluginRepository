@@ -9,10 +9,8 @@
             "date": "2025-03-28T13:41:47.094196Z",
             "requires": "clouddriver>=7.1.0",
             "sha512sum": "d19e3d1e61fa215d0fe09265bd854315dd24fa470053c38696ece1ce6ba1712becbfbd9e4041f1f609d4ea077939c1f024cc7af68595b154308566ff37c6b1b2",
-            "preferred": false,
-            "compatibility": [
-                
-            ]
+            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/1.4.0/aws-account-registration-plugin-spinnaker-1.4.0.zip"
+
         }
     ]
 },
