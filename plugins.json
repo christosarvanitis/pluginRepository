@@ -13,46 +13,5 @@
 
         }
     ]
-},
-    {
-    "id": "Christos.EvaluateArtifactsPlugin",
-    "description": "An plugin that evaluates artifacts of a pipeline stage.",
-    "provider": "https://github.com/armory-plugins",
-    "releases": [
-        {
-            "version": "0.0.1",
-            "date": "2024-06-05T11:31:40.956308Z",
-            "requires": "orca>=0.0.0,deck>=0.0.0",
-            "sha512sum": "376bc47d2a1af79938a1952d648c7729df8525f8c5367cdc7d11ee3ef99961e3eef653bd64851941b93fc4ab09d7f9188137e3862e0da08e09d0b5fade8e7a3e",
-            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/evaluate-artifacts-0.0.1.zip"
-
-        }
-    ]
-},
-    {
-    "id": "Armory.EvaluateArtifactsPlugin",
-    "description": "An example of a PF4J based plugin, that provides a new stage.",
-    "releases": [
-        {
-          "version": "3.0.0",
-            "date": "2023-10-16T11:04:10.862585Z",
-            "requires": "orca>=0.0.0",
-            "sha512sum": "97d3d0c09cf8cfb3938c6f73842077f4ce5527856ac06428e0a027fdd70a9ef89edaeab4c6a1fc0d9dfe341bb45eda39abe755b1a8bdc28b60c6ca22d6d83b7c",
-            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.2/evaluate-artifacts-0.0.2.zip"
-        }
-    ]
-},
-    
-    {
-    "id": "Armory.OverrideKubectlExceptions",
-    "description": "An example of a PF4J based plugin, that provides a new stage.",
-    "releases": [
-        {
-          "version": "0.0.1",
-            "date": "2023-10-16T11:04:10.862585Z",
-            "requires": "clouddriver>=0.0.0",
-            "sha512sum": "63aeca02f66486f5d9339793dd103b97bb77856141b406db798f1ea302a55a431b9f343250226be1ac5e72804f73ee9f560205d1fd8e8f12a18c1520700528c5",
-            "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1/override-kubectl-exceptions-aws.zip"
-        }
-    ]
-}]
+}
+]
