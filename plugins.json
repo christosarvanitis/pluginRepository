@@ -23,7 +23,7 @@
         "version": "0.0.6",
         "date": "2025-06-13T09:59:51.986968745Z",
         "requires": "gate>=0.0.0,deck>=0.0.0",
-        "sha512sum": "423278f87a6c743aa9b4aa770e9e01c2692b82a74cf8fe4ba1ddd7cfb031ed4f5826773334add83c113431ca3d8dcc7d872d2d4477722f30b1265c692e4d4a96",
+        "sha512sum": "36bceec9b6251a256f7c2b47a5b36d301f0d963b3d1ecb3167e0b2a951a53b01cf9509e9f90783f04c0ce01731da2d70c319188d048ff415fa0e7d1ea61be1b1",
         "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/global-banner-0.0.6/global-banner-0.0.6.dirty-SNAPSHOT.zip"
       }
     ]
