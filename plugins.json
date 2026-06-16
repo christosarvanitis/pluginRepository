@@ -27,5 +27,22 @@
         "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/global-banner-0.0.6/global-banner-0.0.6.dirty-SNAPSHOT.zip"
       }
     ]
+  },
+      {
+    "id": "Armory.K8sCustomResourceStatus",
+    "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+        {
+            "version": "3.3.2",
+            "date": "2026-06-16T13:00:35.053964Z",
+            "requires": "clouddriver>=0.0.0",
+            "sha512sum": "833afa573ecf6f9f2e9c3bd0a875f8c173c4d7bcd9b4d870971e72e18d0ce233ead0e23a271eb3a0fc6e80f0b72e7cf821f1eca47753bba354e587d565e05fe6",
+            "preferred": false,
+            "compatibility": [
+                
+            ]
+        }
+    ]
   }
 ]
