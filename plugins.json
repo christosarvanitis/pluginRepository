@@ -37,7 +37,7 @@
             "version": "3.3.2",
             "date": "2026-06-16T13:00:35.053964Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "a560478c48c678e7884e65ffa9b102b6c592a7f39454490f06a43dd052d25a31430ab99df52123e00e65b25755de2d7a28545cdbc873a1db26300144d8b47948",
+            "sha512sum": "7ee094a626e1ce49830d33fda3b5f600f75f69e0aa2dfa7d9ffcba0d6904510464aa4fec5080b257cc10f6b69f0fa09faf98a8c21d98b2f130d5a60f80777a63",
         "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/k8s-custom-resource-status-3.3.2/k8s-custom-resource-status-3.3.2.dirty-SNAPSHOT.zip"
 
         }
