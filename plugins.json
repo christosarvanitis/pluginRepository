@@ -42,5 +42,22 @@
 
         }
     ]
-  }
+  },
+{
+    "id": "Armory.PipelineCustomPlugin",
+    "description": "Overrides the core Orca pipeline stage via dynamic-stage-resolver",
+    "provider": "https://armory.io",
+    "releases": [
+        {
+            "version": "0.0.1",
+            "date": "2026-11-10T11:04:52.168590Z",
+            "requires": "orca>=0.0.0",
+            "sha512sum": "0c52d838f30370fa7f65daf0fc1b69f687dcb681820f45f6d5cd09ff879dd3f1e10cdc75e18df3c00c4c4707b6f7317b9cedb0f1e22c8244b20e7ffe660974d5",
+            "preferred": false,
+            "compatibility": [
+                
+            ]
+        }
+    ]
+}
 ]
