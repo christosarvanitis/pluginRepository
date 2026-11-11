@@ -52,7 +52,7 @@
             "version": "0.0.1",
             "date": "2026-11-10T11:04:52.168590Z",
             "requires": "orca>=0.0.0",
-            "sha512sum": "196a41112b2b6f953ff99fe852da044face3050100dff3151681656ee19b4aea7f486504f7e82fe92a2b76404e077a78c55e588841e186b7cb0fb41954fd465e",
+            "sha512sum": "305cf44c1218a9282beaf9d68892734f458a4eafc4dc02a6f6e1ec93d3c1f8366f66159ea30872bb3a2a516f24375e72441be9adf3bd1fbd46e4dd7fa26b4611",
             "url": "https://github.com/christosarvanitis/pluginRepository/releases/download/0.0.1-custom-pipeline/spinnaker-plugin-pipeline-custom-0.0.1.zip"
         }
     ]
